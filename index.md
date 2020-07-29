@@ -34,7 +34,7 @@
 
 
 
-### Informstion prpvided on the page 
+### Informstion provided on the page 
 
 این پیج برای درس الگریتم پیشرفته ساخته شده است و در این موضوع به فعالیت می پردازد
 

@@ -1,35 +1,37 @@
 ## Welcome to GitHub Pages
+با سلام به تمامی دوستان 
+این پیج متعلق به سید عباس حسینی دانشجو ارشد نرم افزار دانشگاه پیام نور تهران شمال می باشد .
 
-You can use the [editor on GitHub](https://github.com/abbas1991h/abbas1991h.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+متولد 1371 در تهران  
+دارای مدرک کارشناسی مهندسی الکترونیک 
+دانشجوی ارشد مهندسی نرم افزار 
 
-### Markdown
+```about me
+در دوران دبیرستان در رشته ریاضی تحصیل کردم 
+در سال 1389 وارد دانشگاه در مقطع کارشناسی شدم 
+ در سال 1397 وارد مقطع کار شناسی ارشد 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-سلام 
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+از سوابق شغلی میتوان به 
+کارشناس نصب و راه اندازی سیستم های مخابراتی  و دکل های ای دی اس ال در شرکت پارسان لاین 
+کارشناس نصب و راه اندازی سیستم های امنیتی رک و یو پی اس در بانک های قوامین ، تجارت  ، پارسیان 
+کارشناس و مسئول فنی شرکت پارا شیراز کار در زمینه دستگاه های ای تی ام و پول شمار 
+کارشناس و مسئول فنی سرور های کانکشن در بنیاد مسکن فارس 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abbas1991h/abbas1991h.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Informstion prpvided on the page 
+
+این پیج برای درس الگریتم پیشرفته ساخته شده است و در این موضوع به فعالیت می پردازد
+
+
+### Projects and course research
+
+در حال انجام 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+برای ارتباط با این جانب میتوانید از طریق ایمل با من در ارتباط باشید 
+omidh1991h@gmail.com

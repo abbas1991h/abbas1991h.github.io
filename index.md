@@ -65,7 +65,7 @@
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناس و مسئول فنی سرور های کانکشن در بنیاد مسکن فارس</div>
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">مهارت ها -</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">اپراتوری دستگاههای اگزایمر و فمتوسکند لیزر چشم پزشکی</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">نصب و راه اندازی سیستم های مخابراتی و دکل های ای دی اس ال</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">طراحی و راه اندازی سخت افزار و نرم افزار شبکه های تحت ویندوز</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
@@ -75,13 +75,3 @@
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان فرانسه در حد مبتدی</div>
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">گواهینامه ها و دوره ها&nbsp;-</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">مهندسی ماکروسافت&nbsp; 2009 آدانا ترکیه</div>
-<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">&nbsp; &nbsp; 2009&nbsp; CCNA</div>
-<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره اپراتوری اگزایمر و فمتوسکند لیزر در شرکت فجرشاهد و صوفیاطب</div>
-<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره بازاریابی از مدیریت صنعتی</div>
-<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره استقرار سیستم مدیریت کیفیت ایزو 9001:2008 از مدیریت صنعتی</div>

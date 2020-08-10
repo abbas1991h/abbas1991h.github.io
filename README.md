@@ -13,7 +13,7 @@ Rabin-Karp-Matcher
 https://github.com/abbas1991h/abbas1991h.github.io.git
 
 # آدرس نمای برخط الگوریتم:
-demo:http://www.seydabbashosseyni.ir/alg-rabin-karp.php
+demo:https://bit.ly/2PI3BD3
 
 ## آدرس رزومه:
 https://abbas1991h.github.io/

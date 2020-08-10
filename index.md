@@ -49,9 +49,13 @@
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">تحصیلات -</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناسی مهندسی برق الکترونیک از دانشگاه آزاد دماوند</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناسی ارشد رشته نرم افزار ازدانشگاه پیام نور تهران شمال</div>
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">سوابق کاری -</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کلینیک چشم پزشکی بیناگستر شیراز از 1384 تا اکنون</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;"> کارشناس نصب و راه اندازی سیستم های مخابراتی و دکل های ای دی اس ال در شرکت پارسان لاین</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناس نصب و راه اندازی سیستم های امنیتی رک و یو پی اس در بانک های قوامین ، تجارت  ، پارسیان</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناس و مسئول فنی شرکت پارا شیراز کار در زمینه دستگاه های ای تی ام و پول شمار</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناس و مسئول فنی سرور های کانکشن در بنیاد مسکن فارس</div>
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">مهارت ها -</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">اپراتوری دستگاههای اگزایمر و فمتوسکند لیزر چشم پزشکی</div>

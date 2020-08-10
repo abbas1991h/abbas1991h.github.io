@@ -17,3 +17,6 @@ demo:http://www.seydabbashosseyni.ir/alg-rabin-karp.php
 
 ## آدرس رزومه:
 https://abbas1991h.github.io/
+
+## دانلود رزومه:
+http://www.seydabbashosseyni.ir/MyResume.pdf

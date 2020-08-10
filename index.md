@@ -73,5 +73,4 @@
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان انگلیسی در حد خوب</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان فرانسه در حد مبتدی</div>
-<div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
+

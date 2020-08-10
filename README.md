@@ -12,3 +12,6 @@ https://github.com/abbas1991h/abbas1991h.github.io.git
 
 # آدرس نمای برخط الگوریتم:
 demo:http://www.seydabbashosseyni.ir/alg-rabin-karp.php
+
+## آدرس رزومه:
+https://abbas1991h.github.io/

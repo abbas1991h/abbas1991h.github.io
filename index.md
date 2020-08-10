@@ -22,7 +22,7 @@
 </tbody>
 </table>
 </td>
-<td style="width: 50%; text-align: center;"><img src="https://github.com/abbas1991h/abbas1991h.github.io/blob/master/sah.jpg" alt="" width="150" height="150" /></td>
+<td style="width: 50%; text-align: center;"><img src="sah.jpg" alt="" width="150" height="150" /></td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@
 
 کارشناس و مسئول فنی شرکت پارا شیراز کار در زمینه دستگاه های ای تی ام و پول شمار
 
-کا</div>
+کارشناس و مسئول فنی سرور های کانکشن در بنیاد مسکن فارس</div>
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">تحصیلات -</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناسی مهندسی برق الکترونیک از دانشگاه آزاد دماوند</div>

@@ -69,8 +69,13 @@
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">طراحی و راه اندازی سخت افزار و نرم افزار شبکه های تحت ویندوز</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">ICDL</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">Internet.office.ICDL.rar.vinrara</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">آشنایی کامل با برق کشی ساختمان مدارات فشار قوی تابلوی برق صنعتی و دوربین های مدار بسته مدارات امنیتی و دزدگیر</div>
+<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">آشنایی کامل به امور بانکی وپشتیبانی تمام امور بانکی</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">زبان انگلیسی در حد خوب</div>
+<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دارای روابط عمومی بالا وشناخت و انجام کارهای گروهی</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 

@@ -17,7 +17,7 @@
 <td style="width: 100%; height: 20px; text-align: center;">شماره تماس : 09120619661</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 100%; height: 20px; text-align: center;">omidh1991h@gmail.com : پست الکترونیک</td>
+<td style="width: 100%; height: 20px; text-align: center;">omidh1991h@gmail.com : رایانامه</td>
 </tr>
 </tbody>
 </table>

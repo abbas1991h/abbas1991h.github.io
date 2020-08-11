@@ -1,4 +1,4 @@
-<table border="2" style="width: 100%; border-collapse: collapse;direction: rtl;">
+<table border="2" style="margin: auto; width: 100%; border-collapse: collapse;direction: rtl;">
 <tbody>
 <tr>
 <td style="width: 50%;">

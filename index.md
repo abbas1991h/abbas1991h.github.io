@@ -17,7 +17,7 @@
 <td style="width: 100%; height: 20px; text-align: center;">شماره تماس : 09120619661</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 100%; height: 20px; text-align: center;">omidh1991h@gmail.com : پست الکترونیک</td>
+<td style="width: 100%; height: 20px; text-align: center;">omidh1991h@gmail.com : رایانامه</td>
 </tr>
 </tbody>
 </table>
@@ -39,7 +39,7 @@
 
 از سوابق شغلی میتوان به
 
-کارشناس نصب و راه اندازی سیستم های مخابراتی و دکل های ای دی اس ال در شرکت پارسان لاین
+کارشناس نصب و راه اندازی سیستم های مخابراتی و دکل های ای دی اس ال در شرکت پارس انلاین
 
 کارشناس نصب و راه اندازی سیستم های امنیتی رک و یو پی اس در بانک های قوامین ، تجارت ، پارسیان
 
@@ -56,7 +56,7 @@
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">سوابق کاری -</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;"> کارشناس نصب و راه اندازی سیستم های مخابراتی و دکل های ای دی اس ال در شرکت پارسان لاین</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;"> کارشناس نصب و راه اندازی سیستم های مخابراتی و دکل های ای دی اس ال در شرکت پارس انلاین</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناس نصب و راه اندازی سیستم های امنیتی رک و یو پی اس در بانک های قوامین ، تجارت  ، پارسیان</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>

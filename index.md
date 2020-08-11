@@ -11,7 +11,7 @@
 <td style="width: 100%; height: 20px; text-align: center;">وضعیت سربازی : کارت پایان خدمت</td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 100%; height: 20px; text-align: center;">وضعیت تاهل : مجرد</td>
+<td style="width: 100%; height: 20px; text-align: center;">وضعیت تاهل : متاهل</td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 100%; height: 20px; text-align: center;">شماره تماس : 09120619661</td>

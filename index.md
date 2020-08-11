@@ -56,7 +56,7 @@
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">سوابق کاری -</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;"> کارشناس نصب و راه اندازی سیستم های مخابراتی و دکل های ای دی اس ال در شرکت پارسان لاین</div>
+<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;"> کارشناس نصب و راه اندازی سیستم های مخابراتی و دکل های ای دی اس ال در شرکت پارس آنلاین</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">کارشناس نصب و راه اندازی سیستم های امنیتی رک و یو پی اس در بانک های قوامین ، تجارت  ، پارسیان</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>

@@ -12,7 +12,7 @@ Rabin-Karp-Matcher
 # آدرس مخزن الگوریتم:
 https://github.com/abbas1991h/abbas1991h.github.io.git
 
-# آدرس نمای برخط الگوریتم:
+#  آدرس نمای برخط پروژه سمینار تتبع و مدریت پروژه:
 demo:http://shop.sa-hosseyni.ir/ ❤️️❤️️❤️️
 
 ## آدرس رزومه:

@@ -3,7 +3,7 @@
 ![PHP 5.6+](https://img.shields.io/badge/PHP-5.6+-green.svg)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/khanzadimahdi/router/blob/master/LICENSE)
 # abbas1991h.github.io
-پروژه درس الگوریتم های پیشرفته . سید عباس حسینی .
+پروژه درس سمینار تتبع و مدریت پروژه . سید عباس حسینی .
 
 # فصل 32 تطبیق رشته ها
 الگوریتم تطبیق رشته :
